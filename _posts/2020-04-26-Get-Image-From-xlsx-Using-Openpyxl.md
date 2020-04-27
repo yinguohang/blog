@@ -2,7 +2,7 @@
 layout: post  
 title: "Get Images from .xlsx using python openpyxl | 使用python openpyxl提取所有的图片"  
 date:  2020-04-26 16:56:57 -0700
-categories: other  
+categories: python  
 ---
 
 # 使用python openpyxl提取所有的图片 | Get Images from .xlsx using python openpyxl
