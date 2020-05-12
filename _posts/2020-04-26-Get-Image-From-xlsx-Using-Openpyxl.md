@@ -5,8 +5,6 @@ date:  2020-04-26 16:56:57 -0700
 categories: python  
 ---
 
-# 使用python openpyxl提取所有的图片 | Get Images from .xlsx using python openpyxl
-
 ## 需求
 
 希望提取出xlsx中的图片文件以及他们所在的行和列
@@ -114,6 +112,3 @@ def show_binary_image(data):
     plt.imshow(i, interpolation='nearest')
     plt.show()
 ```
-
-
-
