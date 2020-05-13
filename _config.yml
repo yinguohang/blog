@@ -24,12 +24,14 @@ github_username:  yinguohang
 
 # Build settings
 markdown: CommonMarkGhPages
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
 paginate: 5
 paginate_path: "/blog/page:num"
+
+repository: yinguohang/blog
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
