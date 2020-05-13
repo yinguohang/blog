@@ -24,7 +24,7 @@ github_username:  yinguohang
 
 # Build settings
 markdown: CommonMarkGhPages
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
